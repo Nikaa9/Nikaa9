@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikaa9
 - 👀 I’m interested in databases and making websites
-- 🌱 I’m currently learning ...java, hci, data struct
+- 🌱 I’m currently database admin,html,css,hs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
